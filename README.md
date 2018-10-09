@@ -2,7 +2,7 @@
 Cryptopia crypto currency exchange client from command line interface (CLI).
  
  * **Author**: Daniel J. Umpierrez
- * **License**: MIT
+ * **License**: UNLICENSE
  * **Version**: 0.1.0
  
 # Requirements
